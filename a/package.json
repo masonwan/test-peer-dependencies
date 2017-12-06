@@ -1,0 +1,12 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "minimist": ">= 1.0"
+  },
+  "dependencies": {
+    "wrappy": "^1.0.2"
+  }
+}
